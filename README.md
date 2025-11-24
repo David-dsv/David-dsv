@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Engineering+Student+Data+%26+AI+%40+ECE;AI+Developer+%40+Racine.AI;Building+SOTA+Computer+Use+Agents;Fine-tuning+LLMs+%26+Embedding+Models)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Engineering+Student+Data+%26+AI+%40+ECE;Building+SOTA+Computer+Use+Agents;Fine-tuning+LLMs+%26+Embedding+Models;Computer+Vision+Enthusiast)](https://git.io/typing-svg)
 
 <br/>
 
@@ -14,81 +14,82 @@
 
 ---
 
-## 🧠 About Me
+<div align="center">
 
-```python
-class AIEngineer:
-    def __init__(self):
-        self.name = "David Soeiro-Vuong"
-        self.location = "Paris, France 🇫🇷"
-        self.education = "ECE Paris - Data & AI Engineering"
-        self.current_role = "AI Developer @ Racine.AI"
-        self.looking_for = "Summer Internship (May 2026)"
-        
-    def skills(self):
-        return {
-            "AI/ML": ["LLM Fine-tuning", "RAG Pipelines", "Computer Vision", "NLP"],
-            "Models": ["Qwen", "YOLOv11", "RF-DETR", "Gemini"],
-            "Stack": ["Python", "PyTorch", "HuggingFace", "LangChain"],
-            "Infra": ["S3", "SharePoint", "OCR Pipelines", "Vector DBs"]
-        }
-    
-    def achievements(self):
-        return "🏆 +20% SOTA on WebClick Benchmark (70.8% accuracy)"
-```
+## 🚀 Looking for Summer Internship — May 2026
+
+<img src="https://img.shields.io/badge/🌍_AI_/_ML_/_Computer_Vision-Open_to_Opportunities-238636?style=for-the-badge&labelColor=0d1117" />
+
+*Engineering student passionate about building AI systems that see, understand, and act.*  
+*Currently studying Data & AI at ECE Paris.*
+
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## 🎯 Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
+### 🎾 CourtSide Computer Vision
+**Complete Tennis Detection System**
+
+Fine-tuned YOLOv11 model for real-time tennis match analysis with 10-class detection.
+
+- 🎯 **92.1% mAP@50** — highest in the suite
+- 🎾 Detects balls, rackets, net, court zones
+- 📊 **92.9% precision** / **92.0% recall**
+- ⚡ Only **2.6M parameters** — lightweight & fast
+
+<div align="center">
+
+[![Article](https://img.shields.io/badge/📄_Read_Article-LinkedIn-0A66C2?style=flat-square)](https://www.linkedin.com/posts/david-soeiro-vuong-a28b582ba_artificialintelligence-ai-computervision-activity-7398641261030633472-NB7o)
+[![Model](https://img.shields.io/badge/🤗_Try_Model-HuggingFace-FFD21E?style=flat-square)](https://huggingface.co/Davidsv/CourtSide-Computer-Vision-v1)
+
+</div>
+
+</td>
+<td width="50%">
+
 ### 🤖 Computer Use Agent System
 **SOTA Results on WebClick Benchmark**
 
-Built around **CU-1** visual perception model based on **RF-DETR-M**
+Visual perception model for autonomous UI interaction, built around CU-1 based on RF-DETR-M.
+
 - 🎯 **70.8% accuracy** on WebClick
 - 📈 **+20% improvement** over previous SOTA
 - 🔧 Class-agnostic UI element detection
 - ⚡ Reliable automation of complex tasks
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### 🔗 Sovereign RAG Pipeline
 **100% Open-Source for Energy Sector**
 
-End-to-end document intelligence system
-- 📄 SharePoint → S3 automation
+End-to-end document intelligence system designed for a major energy group.
+
+- 📄 SharePoint → S3 full automation
 - 🧠 Fine-tuned **Qwen3 Embedding 4B**
 - 🔍 OCR + Chunking + Vector Storage
 - 💬 Internal chatbot with open-source LLM
 
 </td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🎾 AI Tennis Match Analyzer
-**Real-time Computer Vision Pipeline**
-
-- 🎥 Real-time video analysis
-- 🏃 Fine-tuned **YOLOv11** detection
-- 📊 Structured analytical output
-- 🎬 Annotated video generation
-
-</td>
 <td width="50%">
 
 ### 🗑️ Smart Urban Waste Detection
-**TACO Dataset - 6 Categories**
+**High-Precision Environmental AI**
 
-- 🎯 Custom **YOLOv11** model
-- 🏷️ High-precision classification
+Computer vision system for urban waste classification using custom YOLOv11.
+
+- 🎯 Trained on **TACO dataset**
+- 🏷️ **6 waste categories** detection
 - 🤖 **Gemini AI** contextual analysis
-- 🌍 Urban environment optimization
+- 🌍 Built for smart city applications
 
 </td>
 </tr>
@@ -96,84 +97,23 @@ End-to-end document intelligence system
 
 ---
 
-## 💼 Experience
-
-```mermaid
-timeline
-    title Professional Journey
-    
-    2024-10 : TW3 Partners
-            : AI Developer
-            : LLM Fine-tuning #1 Performance
-            : Flight Booking AI Solutions
-    
-    2025-09 : Racine.AI
-            : AI Developer (Apprenticeship)
-            : SOTA Computer Use Agent
-            : Sovereign RAG Pipeline
-```
-
----
-
-## 🛠️ Tech Stack
-
 <div align="center">
 
-### Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/🤗%20Transformers-FFD21E?style=for-the-badge)
-
-### AI/ML
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-FF6F00?style=for-the-badge&logo=opencv&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![LLM](https://img.shields.io/badge/LLM%20Fine--tuning-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-### Tools & Infrastructure
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS%20S3-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=238636&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+## 💡 Let's Build Something Together
 
 <br/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=238636&ring=58A6FF&fire=238636&currStreakLabel=58A6FF)](https://git.io/streak-stats)
+<a href="mailto:david.sv04@outlook.fr">
+<img src="https://img.shields.io/badge/📬_Reach_out_for_Summer_2026_Internship-238636?style=for-the-badge&labelColor=0d1117" />
+</a>
 
-</div>
+<br/><br/>
 
----
-
-## 🌐 Languages
-
-<div align="center">
-
-| 🇫🇷 French | 🇬🇧 English | 🇨🇳 Chinese |
-|:---:|:---:|:---:|
-| Native | Fluent (TOEIC 880) | Intermediate |
-
-</div>
-
----
-
-<div align="center">
-  
-### 💡 Open to Summer Internship Opportunities (May 2026)
-
-*Let's build the future of AI together!*
+*AI/ML • Computer Vision • LLM Fine-tuning • RAG Systems*
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=238636&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Davidmusic&color=238636&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
