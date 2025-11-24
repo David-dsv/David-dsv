@@ -14,6 +14,31 @@
 
 ---
 
+## 🧠 About Me
+
+```python
+class AIEngineer:
+    def __init__(self):
+        self.name = "David Soeiro-Vuong"
+        self.location = "Paris, France 🇫🇷"
+        self.education = "ECE Paris - Data & AI Engineering"
+        self.current_role = "AI Developer @ Racine.AI"
+        self.looking_for = "Summer Internship (May 2026)"
+        
+    def skills(self):
+        return {
+            "AI/ML": ["LLM Fine-tuning", "RAG Pipelines", "Computer Vision", "NLP"],
+            "Models": ["Qwen", "YOLOv11", "RF-DETR", "Gemini"],
+            "Stack": ["Python", "PyTorch", "HuggingFace", "LangChain"],
+            "Infra": ["S3", "SharePoint", "OCR Pipelines", "Vector DBs"]
+        }
+    
+    def achievements(self):
+        return "🏆 +20% SOTA on WebClick Benchmark (70.8% accuracy)"
+```
+
+---
+
 <div align="center">
 
 ## 🚀 Looking for Summer Internship — May 2026
