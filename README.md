@@ -9,7 +9,6 @@
 [![Email](https://img.shields.io/badge/Email-david.sv04%40outlook.fr-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:david.sv04@outlook.fr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
 [![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-Profile-FFD21E?style=for-the-badge)](https://huggingface.co/YOUR_HF)
-[![Phone](https://img.shields.io/badge/📱-+33%207%2083%2048%2045%2096-238636?style=for-the-badge)]()
 
 </div>
 
