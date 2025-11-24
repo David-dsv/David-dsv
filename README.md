@@ -7,7 +7,7 @@
 <br/>
 
 [![Email](https://img.shields.io/badge/Email-david.sv04%40outlook.fr-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:david.sv04@outlook.fr)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://huggingface.co/Davidsv)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-soeiro-vuong-a28b582ba/)
 [![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-Profile-FFD21E?style=for-the-badge)](https://huggingface.co/davidsv)
 
 </div>
