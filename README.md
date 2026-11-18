@@ -7,7 +7,13 @@
 
 AI engineer in training (Data & AI at ECE Paris) and AI developer at Racine.ai. I build computer vision and LLM systems that run on real data: tennis video analytics, UI detection for computer-use agents, people detection from drone thermal cameras, retrieval for large document bases. Some of them became papers.
 
-<a href="https://arxiv.org/abs/2610.38042"><img src="assets/showcase.jpg" alt="Oka tennis analytics, CU-1 UI detection, RallyArb paper figure, Oka match report, AlpSAR thermal drone detections" width="100%"></a>
+<p>
+<a href="https://arxiv.org/abs/2610.38042"><img src="assets/oka.jpg" alt="Oka: court homography, player pose and ball detection on a club match" width="49%"></a>
+<a href="https://huggingface.co/blog/paulml/ui-detr-1"><img src="assets/cu1.jpg" alt="CU-1: every clickable UI element detected and numbered" width="49%"></a>
+<a href="https://arxiv.org/abs/2610.38042"><img src="assets/rallyarb.jpg" alt="RallyArb: ball trajectory with ground-truth and predicted bounces and hits" width="49%"></a>
+<a href="https://arxiv.org/abs/2610.38042"><img src="assets/oka_report.jpg" alt="Oka: automatic match report with bounce map" width="49%"></a>
+<a href="https://raw.githubusercontent.com/David-dsv/David-dsv/main/assets/thermal.jpg"><img src="assets/thermal.jpg" alt="AlpSAR: people detected in drone thermal video" width="98.6%"></a>
+</p>
 
 </td></tr>
 <tr><td><b>research</b><br>
