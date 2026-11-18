@@ -1,145 +1,44 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:238636&height=200&section=header&text=David%20Soeiro-Vuong&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Developer%20|%20Computer%20Vision%20|%20LLM%20Fine-tuning&descSize=18&descAlignY=55"/>
-
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Engineering+Student+Data+%26+AI+%40+ECE;Building+SOTA+Computer+Use+Agents;Fine-tuning+LLMs+%26+Embedding+Models;Computer+Vision+Enthusiast)](https://git.io/typing-svg)
-
-<br/>
-
-[![Email](https://img.shields.io/badge/Email-david.sv04%40outlook.fr-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:david.sv04@outlook.fr)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-soeiro-vuong-a28b582ba/)
-[![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-Profile-FFD21E?style=for-the-badge)](https://huggingface.co/davidsv)
-
-</div>
-
----
-
-## 🧠 About Me
-
-```python
-class AIEngineer:
-    def __init__(self):
-        self.name = "David Soeiro-Vuong"
-        self.location = "Paris, France 🇫🇷"
-        self.education = "ECE Paris - Data & AI Engineering"
-        self.current_role = "AI Developer @ Racine.AI"
-        self.looking_for = "Summer Internship (May 2026)"
-        
-    def skills(self):
-        return {
-            "AI/ML": ["LLM Fine-tuning", "RAG Pipelines", "Computer Vision", "NLP"],
-            "Models": ["Qwen", "YOLOv11", "RF-DETR", "Gemini"],
-            "Stack": ["Python", "PyTorch", "HuggingFace", "LangChain"],
-            "Infra": ["S3", "SharePoint", "OCR Pipelines", "Vector DBs"]
-        }
-    
-    def achievements(self):
-        return "🏆 +20% SOTA on WebClick Benchmark (70.8% accuracy)"
-```
-
----
-
-<div align="center">
-
-## 🚀 Looking for Summer Internship — May 2026
-
-<img src="https://img.shields.io/badge/🌍_AI_/_ML_/_Computer_Vision-Open_to_Opportunities-238636?style=for-the-badge&labelColor=0d1117" />
-
-*Engineering student passionate about building AI systems that see, understand, and act.*  
-*Currently studying Data & AI at ECE Paris.*
-
-</div>
-
----
-
-## 🎯 Featured Projects
-
 <table>
-<tr>
-<td width="50%">
+<tr><td>
 
-### 🎾 CourtSide Computer Vision
-**Complete Tennis Detection System**
+<p align="right"><a href="https://www.linkedin.com/in/david-soeiro-vuong-a28b582ba/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="24"></a> <a href="https://huggingface.co/Davidsv"><img src="https://img.shields.io/badge/Hugging%20Face-21262d?style=flat&logo=huggingface&logoColor=FFD21E" alt="Hugging Face" height="24"></a> <a href="https://arxiv.org/abs/2610.38042"><img src="https://img.shields.io/badge/arXiv-21262d?style=flat&logo=arxiv&logoColor=B31B1B" alt="arXiv" height="24"></a></p>
 
-Fine-tuned YOLOv11 model for real-time tennis match analysis with 10-class detection.
+### 👋 Hey, I'm David
 
-- 🎯 **92.1% mAP@50** — highest in the suite
-- 🎾 Detects balls, rackets, net, court zones
-- 📊 **92.9% precision** / **92.0% recall**
-- ⚡ Only **2.6M parameters** — lightweight & fast
+AI engineer in training (Data & AI at ECE Paris) and AI developer at Racine.ai. I build computer vision and LLM systems that run on real data: tennis video analytics, UI detection for computer-use agents, people detection from drone thermal cameras, retrieval for large document bases. Some of them became papers.
 
-<div align="center">
+<a href="https://arxiv.org/abs/2610.38042"><img src="assets/showcase.jpg" alt="Oka tennis analytics, CU-1 UI detection, RallyArb paper figure, Oka match report, AlpSAR thermal drone detections" width="100%"></a>
 
-[![Article](https://img.shields.io/badge/📄_Read_Article-LinkedIn-0A66C2?style=flat-square)](https://www.linkedin.com/posts/david-soeiro-vuong-a28b582ba_artificialintelligence-ai-computervision-activity-7398641261030633472-NB7o)
-[![Model](https://img.shields.io/badge/🤗_Try_Model-HuggingFace-FFD21E?style=flat-square)](https://huggingface.co/Davidsv/CourtSide-Computer-Vision-v1)
+</td></tr>
+<tr><td><b>research</b><br>
 
-</div>
+- **Can Event Detectors Leave the Broadcast Camera? Evidence from Tennis** · D. Soeiro-Vuong, A.-L. Rochet · arXiv 2026 · [paper](https://arxiv.org/abs/2610.38042) · [benchmark](https://github.com/David-dsv/tennis-bounce-hit-benchmark) (345 frame-exact bounce and hit events)
+- **CU-1**, a class-agnostic RF-DETR detector of UI elements for computer-use agents, 70.8% on WebClick (+20% over the previous state of the art) · IEEE BigData 2025, co-author · [model](https://huggingface.co/racineai/UI-DETR-1)
+- **AlpSAR** (in progress) · finding people in drone thermal video for mountain rescue. Baselines trained on real drone footage, synthetic RGB + thermal data in Unreal Engine 5 on the way, every model evaluated on real flights it never saw in training
 
-</td>
-<td width="50%">
+<sub>Thermal frames in the showcase: <a href="https://sites.google.com/uw.edu/wisard">WiSARD</a> dataset (Broyles, Hayner and Leung, 2022).</sub>
 
-### 🤖 Computer Use Agent System
-**SOTA Results on WebClick Benchmark**
+</td></tr>
+<tr><td><b>building</b><br>
 
-Visual perception model for autonomous UI interaction, built around CU-1 based on RF-DETR-M.
+- **Oka** · tennis analytics from a single club camera: fine-tuned YOLO26 ball detector (mAP50 0.94), Kalman tracking, pose, automatic court homography (line detection + RANSAC), 97x faster than real time on CPU, full stack on FastAPI, Supabase, Next.js and Modal
+- **Retrieval for a major energy group** · OCR, fine-tuned Qwen3-Embedding-4B, Qwen3-VL reranking served on vLLM
+- **Tender grading pipeline** · 1,000+ requirements scored by an LLM with hybrid retrieval (pgvector + full text, RRF) and NLI verification
 
-- 🎯 **70.8% accuracy** on WebClick
-- 📈 **+20% improvement** over previous SOTA
-- 🔧 Class-agnostic UI element detection
-- ⚡ Reliable automation of complex tasks
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🔗 Sovereign RAG Pipeline
-**100% Open-Source for Energy Sector**
-
-End-to-end document intelligence system designed for a major energy group.
-
-- 📄 SharePoint → S3 full automation
-- 🧠 Fine-tuned **Qwen3 Embedding 4B**
-- 🔍 OCR + Chunking + Vector Storage
-- 💬 Internal chatbot with open-source LLM
-
-</td>
-<td width="50%">
-
-### 🗑️ Smart Urban Waste Detection
-**High-Precision Environmental AI**
-
-Computer vision system for urban waste classification using custom YOLOv11.
-
-- 🎯 Trained on **TACO dataset**
-- 🏷️ **6 waste categories** detection
-- 🤖 **Gemini AI** contextual analysis
-- 🌍 Built for smart city applications
-
-</td>
-</tr>
+</td></tr>
+<tr><td><b>languages</b><br>
+<img src="https://img.shields.io/badge/Python-21262d?style=flat&logo=python&logoColor=3776AB" alt="Python" height="24"> <img src="https://img.shields.io/badge/TypeScript-21262d?style=flat&logo=typescript&logoColor=3178C6" alt="TypeScript" height="24"> <img src="https://img.shields.io/badge/JavaScript-21262d?style=flat&logo=javascript&logoColor=F7DF1E" alt="JavaScript" height="24"> <img src="https://img.shields.io/badge/SQL-21262d?style=flat&logo=postgresql&logoColor=4169E1" alt="SQL" height="24">
+</td></tr>
+<tr><td><b>vision / ml</b><br>
+<img src="https://img.shields.io/badge/PyTorch-21262d?style=flat&logo=pytorch&logoColor=EE4C2C" alt="PyTorch" height="24"> <img src="https://img.shields.io/badge/Ultralytics%20YOLO-21262d?style=flat&logo=ultralytics&logoColor=white" alt="Ultralytics YOLO" height="24"> <img src="https://img.shields.io/badge/RF--DETR-21262d?style=flat" alt="RF-DETR" height="24"> <img src="https://img.shields.io/badge/SAM%202-21262d?style=flat&logo=meta&logoColor=0467DF" alt="SAM 2" height="24"> <img src="https://img.shields.io/badge/Hugging%20Face-21262d?style=flat&logo=huggingface&logoColor=FFD21E" alt="Hugging Face" height="24">
+</td></tr>
+<tr><td><b>llm / agents</b><br>
+<img src="https://img.shields.io/badge/vLLM-21262d?style=flat" alt="vLLM" height="24"> <img src="https://img.shields.io/badge/Qwen3-21262d?style=flat" alt="Qwen3" height="24"> <img src="https://img.shields.io/badge/RAG%20%2B%20reranking-21262d?style=flat" alt="RAG + reranking" height="24"> <img src="https://img.shields.io/badge/LangChain-21262d?style=flat&logo=langchain&logoColor=white" alt="LangChain" height="24"> <img src="https://img.shields.io/badge/Gemini-21262d?style=flat&logo=googlegemini&logoColor=8E75B2" alt="Gemini" height="24">
+</td></tr>
+<tr><td><b>frontend</b><br>
+<img src="https://img.shields.io/badge/Next.js-21262d?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" height="24"> <img src="https://img.shields.io/badge/React-21262d?style=flat&logo=react&logoColor=61DAFB" alt="React" height="24">
+</td></tr>
+<tr><td><b>infra</b><br>
+<img src="https://img.shields.io/badge/FastAPI-21262d?style=flat&logo=fastapi&logoColor=009688" alt="FastAPI" height="24"> <img src="https://img.shields.io/badge/Postgres%20%2B%20pgvector-21262d?style=flat&logo=postgresql&logoColor=4169E1" alt="Postgres + pgvector" height="24"> <img src="https://img.shields.io/badge/Supabase-21262d?style=flat&logo=supabase&logoColor=3FCF8E" alt="Supabase" height="24"> <img src="https://img.shields.io/badge/Celery-21262d?style=flat&logo=celery&logoColor=37814A" alt="Celery" height="24"> <img src="https://img.shields.io/badge/Docker-21262d?style=flat&logo=docker&logoColor=2496ED" alt="Docker" height="24"> <img src="https://img.shields.io/badge/Modal-21262d?style=flat" alt="Modal" height="24"> <img src="https://img.shields.io/badge/AWS%20S3-21262d?style=flat&logo=amazons3&logoColor=569A31" alt="AWS S3" height="24"> <img src="https://img.shields.io/badge/Azure-21262d?style=flat" alt="Azure" height="24">
+</td></tr>
 </table>
-
----
-
-<div align="center">
-
-## 💡 Let's Build Something Together
-
-<br/>
-
-<a href="mailto:david.sv04@outlook.fr">
-<img src="https://img.shields.io/badge/📬_Reach_out_for_Summer_2026_Internship-238636?style=for-the-badge&labelColor=0d1117" />
-</a>
-
-<br/><br/>
-
-*AI/ML • Computer Vision • LLM Fine-tuning • RAG Systems*
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Davidmusic&color=238636&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:238636&height=120&section=footer"/>
